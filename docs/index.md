@@ -8,9 +8,13 @@ nav_order: 0
 >
 > You may delete this `attention` box.
 
-# [Project Name]
+# Web App
 
 [Include a short project description. Below, include a representative, attractive screenshot of your final web app.]
+
+## Team Members
+
+Masin Hassan
 
 ## Sample App Screen
 
