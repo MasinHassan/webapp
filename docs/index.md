@@ -8,13 +8,15 @@ nav_order: 0
 >
 > You may delete this `attention` box.
 
-# Web App
+# Team Survey-Swap
 
-[Include a short project description. Below, include a representative, attractive screenshot of your final web app.]
+Survey-Swap ist eine zweiseitige, datenbankgestützte Web-App, die auf Python und Flask basiert. Die plattform löst das Problem der mangelnden Motivation bei Umfrageteilnehmern durch ein faires "Geben und Nehmen"-Prinzip. Forscher erhalten Antworten auf ihre Umfragen, während Teilnehmer durch ihre Unterstützung Credits sammeln, um eigene Projekte voranzutreiben
 
 ## Team Members
 
-Masin Hassan
+* **Masin Hassan**:
+*  **Zielnote**: 2,0
+*  **Persönlichen Zielle**: Erlangung eines fundierten grundverständniss für Full-Stack-Workflows (Git, Python, Flask); Erfolgreiche Umsetzung einer funktionalen Datenbank-Logik trotz geringer Vorkentnisse.
 
 ## Sample App Screen
 

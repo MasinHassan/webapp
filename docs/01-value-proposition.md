@@ -15,15 +15,20 @@ nav_order: 1
 
 ## The Problem
 
-[Describe which problem your application tackles and why it is relevant.]
+Es is extrem schwierig, fremde Personen dazu zu bewegen, kostenlos an Umfragen teilzunehmen, da oft die Zeit und Motivation fehlen.
 
 ## Our Solution
 
-[Describe why and how your app solves the stated problem. Don't over-promise: the description should match what your app actually delivers.]
+Ein "Geben und Nehmen"-Prinzip, Die App fungiert als Marktplatz, auf dem Zeit gegen Zeit getauscht wird, verwaltet durch ein credit-system.
+
+**Plattform-Logik (Two-sided Platform):**
+* **Rolle A (Forscher):** Erstellt Umfragen und "bezahlt" Credits, um Teilnehmer zu gewinnen.
+*  **Rolle B (Teilnehmer):** Nimmt an Umfragen teil, validiert dies über einen Code undverdient dadurch Credits für eigene Vorhaben.
+
 
 ## Target User(s)
 
-[Scope your target user(s), e.g., with the help of personas.]
+Studierende, die auf ihre Abschlussarbeiten dringed Teilnehmer für Umfragen suchen.
 
 ##  Happy Path
 
@@ -33,4 +38,10 @@ nav_order: 1
 
 ## Target Scope
 
-[Include your visual scoping of the web app (e.g., UI screens scribbles), as elaborated at start of the project as part of your Assignment.]
+Hier sind die ersten Skizzen, die den Ablauf der App visualisieren:
+
+### Landing Page § Umfrage-Upload
+![Landing und Upload](assets/images/flow_landing_upload.jpg.jpeg)
+
+### Teilnehmer- § Forscher Dashboards
+![Dashboards Übersicht](assets/images/flow_dashboards.jpg.jpeg)
